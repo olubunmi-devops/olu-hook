@@ -17,7 +17,7 @@ pipeline {
 	 			sh	'echo "walk...."'
 	 			}
 	 		}
-	 		stage('4-cross the street'){
+	 		stage('4-cross the street and you will be home'){
 	 			steps{
 	 			sh	'echo "walk...."'
 	 			}
